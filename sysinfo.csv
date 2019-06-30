@@ -1,0 +1,4 @@
+ssysname,ip,port
+vm1,10.10.10.1,21
+vm2,10.10.10.2,22
+vm3,google.com,80

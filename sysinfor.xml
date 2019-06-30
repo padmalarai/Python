@@ -1,0 +1,12 @@
+<systems>
+	<sys id="1">
+		<name>vm101</name>
+		<ip>10.10.10.1</ip>
+		<port>22</port>
+	</sys>
+<sys id="2">
+		<name>vm102</name>
+		<ip>10.10.10.21</ip>
+		<port>22</port>
+	</sys>
+</systems>
